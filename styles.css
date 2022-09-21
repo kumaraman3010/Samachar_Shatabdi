@@ -1,0 +1,19 @@
+* {
+    background-color: lightgreen;
+}
+
+div {
+    color: purple;
+}
+
+.collapse navbar-collapse {
+    color: black;
+}
+
+.navbar-toggler {
+    background-color: brown;
+}
+
+.navbar-nav mr-auto {
+    color: black;
+}
